@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JonasJenn
 - 👀 I’m interested in Data Analysis and Science 
-- 🌱 I’m currently learning A/B Testing
-- 💞️ I’m looking to collaborate and learn more on data science
+- 🌱 I’m currently learning Financial Analysis
+- 💞️ I’m looking to collaborate and learn more 
 - 📫 How to reach me jonaschidinma@gmail.com
 
 <!---
